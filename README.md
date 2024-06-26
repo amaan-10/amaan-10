@@ -1,6 +1,4 @@
 ![logo](https://github.com/amaan-10/amaan-10/blob/main/Github-Banner.png)
-<h1 align="center">Hi 👋, I'm Amaan Shaikh</h1>
-<h3 align="center">A passionate learner to become a Software Engineer </h3>
 
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>React and Backend Technologies<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>React.js, Node.js, Express<br><br> 📫 **How to reach me:** <br> amaanshaikh.gg@gmail.com <br><br>⚡ **Fun fact:**  <br>I love creative creations.
