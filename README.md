@@ -21,7 +21,7 @@
 
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>React and Backend Technologies<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>React.js, Node.js, Express<br><br>⚡ **Fun fact:**  <br>I love Devloping.
+🔭 **I’m currently working on:**  <br>React and Backend Technologies<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>React.js, Node.js, Express<br><br>⚡ **Fun fact:**  <br>I love Developing.
 
 
 ## 🌐 Socials:
