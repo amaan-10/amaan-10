@@ -4,7 +4,7 @@
 🔭 **I’m currently working on:**  <br>React and Backend Technologies<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>React.js, Node.js, Express<br><br> 📫 **How to reach me:** <br> amaanshaikh.gg@gmail.com <br><br>⚡ **Fun fact:**  <br>I love creative creations.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-shaikh-329589229) 
 
 # 💻 Tech Stack:
