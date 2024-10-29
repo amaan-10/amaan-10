@@ -1,7 +1,7 @@
 ![logo](https://github.com/amaan-10/amaan-10/blob/main/Github-Banner.png)
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>React and Backend Technologies<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>React.js, Node.js, Express<br><br> 📫 **How to reach me:** <br> amaanshaikh.gg@gmail.com <br><br>⚡ **Fun fact:**  <br>I love creative creations.
+🔭 **I’m currently working on:**  <br>React and Backend Technologies<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>Next.js, TypeScript<br><br> 📫 **How to reach me:** <br> amaanshaikh.gg@gmail.com <br><br>⚡ **Fun fact:**  <br>I love creative creations.
 
 
 # 🌐 Socials:
