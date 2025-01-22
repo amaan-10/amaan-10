@@ -5,7 +5,7 @@
 
 
 # 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-shaikh-329589229) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/10-amaan) 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logoColor=white)](mailto:amaanshaikh.gg@gmail.com)
  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logoColor=#FF7139)](https://amaans-portfolio.vercel.app)
 
