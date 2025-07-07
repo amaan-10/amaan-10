@@ -1,13 +1,13 @@
 ![logo](https://github.com/amaan-10/amaan-10/blob/main/Github-Banner.png)
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>React and Backend Technologies<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>Next.js, TypeScript<br><br> 📫 **How to reach me:** <br> amaanshaikh.gg@gmail.com <br><br>⚡ **Fun fact:**  <br>I love creative creations.
+🔭 **I’m currently working on:**  <br>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Chakravyuh - DSA Quest*** <br><br>👯 **I’m looking to collaborate on:**  <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Full-Stack projects***<br><br>
 
 
 # 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/10-amaan) 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logoColor=white)](mailto:amaanshaikh.gg@gmail.com)
- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logoColor=#FF7139)](https://amaans-portfolio.vercel.app)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logoColor=#FF7139)](https://amaan-shaikh.vercel.app)
 
 
 
@@ -39,12 +39,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=amaan-10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amaan-10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
