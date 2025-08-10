@@ -1,7 +1,10 @@
 ![logo](https://github.com/amaan-10/amaan-10/blob/main/Github-Banner.png)
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***RannNeeti - DSA Quest*** <br><br>👯 **I’m looking to collaborate on:**  <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Full-Stack projects***<br><br>
+🔭 **I’m currently working on:**  <br>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Nyāyik - An AI Legal Advisor*** 
+<br><br>
+👯 **I’m looking to collaborate on:**  <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Full-Stack projects***
+<br><br>
 
 
 # 🌐 Socials:
