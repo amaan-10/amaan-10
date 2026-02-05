@@ -1,7 +1,7 @@
 ![logo](https://github.com/amaan-10/amaan-10/blob/main/Github-Banner.png)
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Nyāyik - An AI Legal Advisor*** 
+🔭 **I’m currently working on:**  <br>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Sylabus - A Question Paper Generator Platform*** 
 <br><br>
 👯 **I’m looking to collaborate on:**  <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Full-Stack projects***
 <br><br>
